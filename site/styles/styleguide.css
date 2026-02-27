@@ -1,0 +1,28 @@
+:root {
+  --h1-font-family: "JetBrains Mono", Helvetica;
+  --h1-font-weight: 400;
+  --h1-font-size: 12rem;
+  --h1-letter-spacing: -2.4px;
+  --h1-line-height: normal;
+  --h1-font-style: normal;
+  --text-font-family: "Inter", Helvetica;
+  --text-font-weight: 400;
+  --text-font-size: 3.6rem;
+  --text-letter-spacing: 0px;
+  --text-line-height: normal;
+  --text-font-style: normal;
+  --body-regular-font-family: "Roboto", Helvetica;
+  --body-regular-font-weight: 400;
+  --body-regular-font-size: 14px;
+  --body-regular-letter-spacing: 0px;
+  --body-regular-line-height: 22px;
+  --body-regular-font-style: normal;
+  --variable-collection-main-bg: rgba(9, 3, 12, 1);
+  --variable-collection-text: rgba(255, 255, 255, 1);
+  --variable-collection-description: rgba(159, 148, 169, 1);
+  --variable-collection-card-bg: rgba(24, 19, 27, 1);
+  --variable-collection-button-default: rgba(8, 102, 255, 1);
+  --variable-collection-input-stroke: rgba(229, 229, 229, 0.93);
+  --variable-collection-input-bg: rgba(21, 12, 20, 1);
+  --webkit-text-fill-color: #ffffff;
+}
